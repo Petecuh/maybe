@@ -6,7 +6,7 @@ description: Introducción
 
 ¡Bienvenido a la Wiki Oficial de Nookure Network! Aquí podrás conocer un poco el funcionamiento del servidor, normativas, entre otras cosas interesantes.
 
-<figure><img src=".gitbook/assets/undefined - Imgur.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/LOGO_NEW (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **¿Quiénes somos?** <a href="#quienes-somos" id="quienes-somos"></a>
 
