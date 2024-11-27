@@ -2,9 +2,9 @@
 description: Recuerda que suscribir no es lo mismo que seguir.
 ---
 
-# ¿Puedo conseguir rango Lagarto suscribiéndome al canal de Twitch de un dueño?
+# ¿Puedo conseguir rango suscribiéndome al canal de Twitch de un dueño?
 
-La respuesta es sí. Con la suscripción a cualquiera de los canales de los dueños puedes obtener el rango Beta. También puedes conseguirlo boosteando el servidor de Discord.
+La respuesta es sí. Con la suscripción a cualquiera de los canales de los dueños puedes obtener el rango Lagarto. También puedes conseguirlo boosteando el servidor de Discord.
 
 No es posible regalar el rango de tu suscripción a ningún otro jugador, es sólo para uso personal.
 
