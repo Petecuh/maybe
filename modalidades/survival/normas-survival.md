@@ -14,13 +14,13 @@ _Todas las_ [_normas generales_](../../reglas-generales.md) _más las siguientes
 
 **4.** Robar el loot de las tumbas está permitido siempre que te haya matado un jugador con el pvp activado. Si mueres a causa de un mob tu tumba puede ser recogida por otro usuario.
 
-**5.** Los usuarios cuyo rango sea mayor que el Alpha no pueden ni vender, ni quitar, ni colocar spawners a otras personas.
+**5.** Los usuarios cuyo rango sea mayor que el Lagarto no pueden ni vender, ni quitar, ni colocar spawners a otras personas.
 
 **6.** Subir al techo del Nether está prohibido.&#x20;
 
 **7.** Si intercambias objetos con otro jugador y no te los entrega no te los podemos devolver. Utiliza el comando /trade para cambiar de forma segura.
 
-**8.** El staff no tiene la obligación de devolver los objetos perdidos tanto en el Nether como en otro lugar, tampoco los robados.
+**8.** El staff no tiene la obligación de devolver los objetos perdidos en cualquier lugar no protegido, tampoco los robados.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>play.nookure.net</p></figcaption></figure>
 
