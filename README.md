@@ -12,7 +12,7 @@ description: Introducción
 
 Somos una Network de Minecraft llamada Nookure. El servidor fue fundado el `20 de Diciembre de 2024` por Petecuh, ralemac7 y Angelillo15 con la modalidad **Survival Clásico**.&#x20;
 
-Anteriormente teníamos otro servidor llamado "Minearte Network" el cual cerró por diversos motivos. Este proyecto nos hizo ganar mucha experiencia para no cometer los mismos errores en el actual proyecto.
+Anteriormente teníamos otro servidor llamado "Minearte Network" el cual cerró por diversos motivos. Esta network nos hizo ganar experiencia para no cometer los mismos errores en el actual proyecto.
 
 Seguimos trabajando continuamente para seguir trayendo más modalidades al servidor, así como actualizaciones y mejoras que harán de Nookure Network, una experiencia única y divertida para tí y tus amigos.
 
