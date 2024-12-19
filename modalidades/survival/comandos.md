@@ -17,7 +17,7 @@ description: >-
 * **/trabajos** o **/jobs**⇾ Consigue dinero.
 * **/recompensas** o **/rewards** ⇾ Consigue premios diarios.
 * **/misiones** o **/quests** ⇾ Supera retos y obtén premios.
-* **/tumba** o **/graves** ⇾ Ve al lugar dónde has muerto.
+* **/tumba** o **/actp** ⇾ Ve al lugar dónde has muerto.
 * **/clan** ⇾ Mira los comandos de los clanes.
 * **/trade** ⇾ Intercambia objetos con otros jugadores.
 * **/kits** ⇾ Abre el menú de los kits.
