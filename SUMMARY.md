@@ -9,6 +9,8 @@
   * [Normas](modalidades/survival/normas-survival.md)
   * [Comandos](modalidades/survival/comandos.md)
   * [Guías](modalidades/survival/guias.md)
+* [1.2. FNAFBox](modalidades/1.2.-fnafbox/README.md)
+  * [Normas](modalidades/1.2.-fnafbox/normas.md)
 
 ## 2. Preguntas frecuentes <a href="#preguntas" id="preguntas"></a>
 
