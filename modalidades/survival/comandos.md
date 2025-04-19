@@ -35,6 +35,8 @@ description: >-
 * **/helpop \[mensaje]**  ⇾ Envia mensaje de ayuda al staff.
 * **/ignore \[nombre]**  ⇾ Bloquea o desbloquea a un jugador para evitar sus mensajes.
 * **/ignore**  ⇾ Observa la lista de jugadores que tienes bloqueados.
+* **/habilidades o /skills** ⇾ Ve el progreso de tus habilidades.
+* **/encantamientos**  ⇾ Muestra una lista informativa de los encantamientos existentes.
 
 {% hint style="info" %}
 Recuerda que hay rangos de pago los cuáles tienen más comandos. Estos rangos y sus beneficios puedes verlos en [<mark style="color:blue;">https://tienda.nookure.net</mark>](https://tienda.nookure.net)
