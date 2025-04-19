@@ -6,7 +6,7 @@ description: Normas de seguimiento obligatorio en la modalidad Survival.
 
 _Todas las_ [_normas generales_](../../reglas-generales.md) _más las siguientes:_
 
-**1.** La utilización o conocimiento de existencia de bugs, ya sea para duplicar objetos, máquinas antiafk, u otros, está totalmente prohibida.
+**1.** La utilización o conocimiento de existencia de bugs, ya sea para duplicar objetos, mecanismos afk, u otros, está totalmente prohibida.
 
 **2.** Tanto grifear, robar con o sin zona protegida, tpakill, spawnkill o matar de cualquier manera a otra persona que tenga el pvp desactivado es motivo de sanción.
 
