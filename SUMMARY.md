@@ -9,6 +9,10 @@
   * [Normas](modalidades/survival/normas-survival.md)
   * [Comandos](modalidades/survival/comandos.md)
   * [Guías](modalidades/survival/guias.md)
+* [1.2. HeroBox](modalidades/1.2.-herobox/README.md)
+  * [Normas](modalidades/1.2.-herobox/normas.md)
+  * [Comandos](modalidades/1.2.-herobox/comandos.md)
+  * [Guías](modalidades/1.2.-herobox/guias.md)
 
 ## 2. Preguntas frecuentes <a href="#preguntas" id="preguntas"></a>
 
